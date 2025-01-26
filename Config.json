@@ -1,0 +1,13 @@
+​{
+  "default": "JDC00000000",
+  "presets": [
+    {
+      "name": "mr.Jelle-Beat",
+      "code": "JDCD0A00000"
+    },
+    {
+      "name": "Johnny Dutch",
+      "code": "JDCDCBAA000"
+    }
+  ]
+}
