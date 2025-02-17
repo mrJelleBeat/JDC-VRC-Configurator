@@ -1,13 +1,16 @@
 {
-  "default": "JDC00000000",
+  "default": "JDC000000000000",
+  "motd": "Welcome to Echilon J – Beta Test Event\n\nGet ready for an unforgettable night of high-energy Drum & Bass and next-level virtual clubbing! Help us stress-test the world and enjoy the ride.\n\n📜 Club Rules:\n✅ Respect Others – No harassment, hate speech, or disruptive behavior.\n✅ Stay in Control – No excessive avatar scaling, particle spam, or crashers.\n✅ Keep It Legal – No NSFW content or TOS violations.\n✅ Let the DJs Shine – Don’t interrupt performances or abuse the mic.\n✅ Report Issues – If you find bugs, let us know!\n\n🎵 Enjoy the beats & push the limits of Echilon J! 🎵",
+  "images": "2",
+  "posters": "1",
   "presets": [
     {
       "name": "mr.Jelle-Beat",
-      "code": "JDCD0A00000"
+      "code": "JDCDA0000000000"
     },
     {
       "name": "Johnny Dutch",
-      "code": "JDCDCBAA000"
+      "code": "JDCDCBAA0000000"
     }
   ]
 }
